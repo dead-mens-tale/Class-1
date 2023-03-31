@@ -5,35 +5,3 @@ HTML REFERENCES
 lIVE PREVIEW
 https://dead-mens-tale.github.io/Class-1/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
